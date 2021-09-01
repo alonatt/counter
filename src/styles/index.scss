@@ -11,3 +11,21 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.contador{
+    margin-top: 20%;
+    text-align: center;
+    background-color: black;
+    width: 500px;
+    margin-left: 30%;
+}
+.contador div {
+    display: inline-block;
+    font-size: 50px;
+    background-color: grey;
+    color: white;
+    padding: 10px; 
+    margin: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+}
